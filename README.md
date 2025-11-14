@@ -1,5 +1,5 @@
 # **Real-time-Face-Mask-Detection-using-Deep-Learning**
-This project focuses on automating defect detection in industrial components using Deep Learning and Generative AI
+This project focuses on detecting whether a person is wearing a mask or not using Deep Learning Techniques.
 
 ## Features  
 - Real-time face mask detection using a webcam/camera feed  
